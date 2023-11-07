@@ -38,3 +38,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 /lib
+
+package-lock.json
+yarn.lock
